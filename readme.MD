@@ -1,6 +1,6 @@
 # Crypto Keep Tracking
 
-Simple script to see info about your digital currencies :
+Simple script to see info and track your digital currencies :
 
 ![alt text](exemple.jpg "exemple, iam just busto_LOL")
 
